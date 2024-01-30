@@ -27,8 +27,7 @@ I am Hello, a scripter in Luau with 3+ years of experience. I am able to perform
 
 ## Availability
 
-I am active during weekends and holidays, so 
-During weeekdays, I am usually active within the late afternoon
+I am extremely active within the weekends and holidays, so you can expect regular progress updates whenever you need to! In weekdays, however, I am usually active within the late afternoon, but it depends on the circumstances.
 
 ## Commissions
 I haven't made many commissions yet, but here is some of the work I have produced as a scripter:
@@ -43,8 +42,8 @@ https://www.roblox.com/games/13414022624/Lua-Compiler
 
 ## Prices
 
-The minimum amount I charge for commissions is R$ 1,000.
-I currently accept Robux for now. If you are paying me via gamepass, I only take **tax-included** (R$ 1,300).
+The minimum amount I charge for commissions is R$ 500.
+I currently accept Robux for now. If you are paying me via gamepass, I only take **tax-included**.
 
 **If you want to know more info about my skills as a scripter, I'd be more than happy to answer. :)**
 
