@@ -34,15 +34,15 @@ I haven't made many commissions yet, but here is some of the work I have produce
 
 ### Data Store System and Purchase System
 I have made this data store system and purchase system showcase, it reliably saves and loads data without using any modules, while also handling purchases within the game.
-<br> https://www.roblox.com/games/16177575083/Data-Store-System-Purchase-System-Showcase
+<br> Game: https://www.roblox.com/games/16177575083/Data-Store-System-Purchase-System-Showcase
 
 ### Creature Collection Game
 I have been a scripter inside of Radaction studios, where I scripted a creature collection game (which is basically just a pokemon clone game). The game I've linked here is only a testing ground, so the UI and parts are merely placeholders.
-Game: https://www.roblox.com/games/9765374831/baseplate
+<br> Game: https://www.roblox.com/games/9765374831/baseplate
 
 ### Lua Compiler
 I have also created a Lua compiler, which would allow mobile players to get a taste of scripting in Roblox. 
-Game: https://www.roblox.com/games/13414022624/Lua-Compiler
+<br> Game: https://www.roblox.com/games/13414022624/Lua-Compiler
 
 ## Prices
 
