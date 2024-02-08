@@ -34,7 +34,7 @@ I haven't made many commissions yet, but here is some of the work I have produce
 
 ### Data Store System and Purchase System
 I have made this data store system and purchase system showcase, it reliably saves and loads data without using any modules, while also handling purchases within the game.
-Game: https://www.roblox.com/games/16177575083/Data-Store-System-Purchase-System-Showcase
+<br> https://www.roblox.com/games/16177575083/Data-Store-System-Purchase-System-Showcase
 
 ### Creature Collection Game
 I have been a scripter inside of Radaction studios, where I scripted a creature collection game (which is basically just a pokemon clone game). The game I've linked here is only a testing ground, so the UI and parts are merely placeholders.
