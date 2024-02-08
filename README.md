@@ -32,6 +32,10 @@ I am extremely active within the weekends and holidays, so you can expect regula
 ## Commissions
 I haven't made many commissions yet, but here is some of the work I have produced as a scripter:
 
+### Data Store System and Purchase System
+I have made this data store system and purchase system showcase, it reliably saves and loads data without using any modules, while also handling purchases within the game.
+https://www.roblox.com/games/16177575083/Data-Store-System-Purchase-System-Showcase
+
 ### Creature Collection Game
 I have been a scripter inside of Radaction studios, where I scripted a creature collection game (which is basically just a pokemon clone game). The game I've linked here is only a testing ground, so the UI and parts are merely placeholders.
 https://www.roblox.com/games/9765374831/baseplate
@@ -43,7 +47,7 @@ https://www.roblox.com/games/13414022624/Lua-Compiler
 ## Prices
 
 The minimum amount I charge for commissions is R$ 500.
-I currently accept Robux for now. If you are paying me via gamepass, I only take **tax-included**.
+I currently accept Robux for now. If you are paying me via gamepasses, I only take **tax-included**.
 
 **If you want to know more info about my skills as a scripter, I'd be more than happy to answer. :)**
 
