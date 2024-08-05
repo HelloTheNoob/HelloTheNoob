@@ -1,5 +1,5 @@
 ## Hello there!
-I am Hello, a scripter in Luau with 3+ years of experience. I am able to perform many tasks for you, whether it be front-end or back-end, and I enjoy both equally. I use plenty of OOP in my works, and I am committed to helping you in whatever you need.
+I am Hello, a scripter in Luau with 4+ years of experience. I am able to perform many tasks for you, whether it be front-end or back-end, and I enjoy both equally. I use plenty of OOP in my works, and I am committed to helping you in whatever you need.
 
 ## Skills
 **I am proficient in many areas, such as:**
@@ -11,7 +11,7 @@ I am Hello, a scripter in Luau with 3+ years of experience. I am able to perform
 * Lobby and teleport systems
 * Pet systems
 * Round systems
-* and more
+* and more!
 
 **I haven't had much experience with these yet, I will be doing these once I learn more about them, but for now, it depends on the situation.**
 * Combat systems
