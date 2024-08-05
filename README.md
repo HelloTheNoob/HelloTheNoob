@@ -1,4 +1,4 @@
-# I will be moving my portfolio to Google Sites soon. You will still be able to read it here, there will be a link to my new portfolio instead once the website has been set up.
+# I will be moving my portfolio to Google Sites soon. You will still be able to read it here, but there will be a link to my new portfolio instead once the website has been set up.
 
 ## Hello there!
 I am Hello, a scripter in Luau with 4+ years of experience. I am able to perform many tasks for you, whether it be front-end or back-end, and I enjoy both equally. I use plenty of OOP in my works, and I am committed to helping you in whatever you need.
